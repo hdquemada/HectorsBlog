@@ -37,7 +37,7 @@
 ---
 
 ### Content Credits :green_heart:
-* [Hero Image: Photo by Maarten van den Heuvel](https://unsplash.com/images/nature/beach?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) used as a background image in the very first section of Homepage.
+* [Hero Image: Living Stills](https://media.giphy.com/media/3oz8xur099boo4N9aU/giphy.gif) used as a background image in the very first section of Homepage.
 * [Author Image](assets/images/lofi_generator.png) used in the Author Section.
 * [Font Awesome](https://fontawesome.com/)
 * [Poppins Font](https://fonts.google.com/specimen/Poppins)
