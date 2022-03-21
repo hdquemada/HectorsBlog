@@ -1,7 +1,7 @@
 ---
 title: Sample Post
 layout: post
-post-image: https://th.bing.com/th/id/OIP.TyGpldT58YswNZP8k60VXAHaE8?pid=ImgDet&rs=1 
+post-image: https://hdquemada.github.io/HectorsBlog/assets/images/SamplePost.png
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
