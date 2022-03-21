@@ -45,8 +45,8 @@ author-name: Hector Quemada
 # URL for the Image of the Author
 author-image: assets/images/headshot.png 
 # 60 Words About the Author
-author-about: This is my personal blog, which is still under construction but scheduled to be fully functional by Juen 30, 2022.  That is the day of my retirement, which will give me more time to devote to blogging, among other things. In the meantime, please see ![my professional website](https://hdquemada.github.io).
- 
+author-about: Hello! This is my personal blog, which is still under construction but scheduled to be fully functional by June 30, 2022.  That is the day of my retirement, which will give me more time to devote to blogging, among other things. In the meantime, please see <a href="https://hdquemada.github.io" target="_blank">my professional website</a>.
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/hdquemada
 
