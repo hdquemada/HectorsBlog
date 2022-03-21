@@ -37,7 +37,7 @@
 ---
 
 ### Content Credits :green_heart:
-* [Hero Image: Living Stills](https://media.giphy.com/media/3oz8xur099boo4N9aU/giphy.gif) used as a background image in the very first section of Homepage.
+* [Hero Image: Unsplash.com MissMushroom](https://images.unsplash.com/photo-1546547375-cefab0de4484?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80) used as a background image in the very first section of Homepage.
 * [Author Image](assets/images/lofi_generator.png) used in the Author Section.
 * [Font Awesome](https://fontawesome.com/)
 * [Poppins Font](https://fonts.google.com/specimen/Poppins)
